@@ -23,9 +23,43 @@
     
 }
 
-.row1, .row2, .row3 {
+.top3-1 {
+    font-size: 18px;
+}
+
+.top3-3 {
+    font-size: 18px;
+    color: white;
+    
+    
+}
+
+.wrapper {
+    background-color: black;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.text {
+    justify-items;
+}
+
+.flex-container {
     display: flex;
     align-items: center;
     justify-content: center;
-    
+}
+
+.col1 {
+    margin-right: 10px;
+}
+
+.list1 li {
+    margin-bottom: 10px;   
+}
+.list2 li {
+    margin-bottom: 5px;   
+}
+.list3 li {
+    margin-bottom: 10px;   
 }
